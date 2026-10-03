@@ -167,8 +167,8 @@ Lưu ý: cấu hình cuối đổi ba yếu tố cùng lúc so với baseline (o
 
 | Lớp | Loại rừng | support | precision | recall | F1 |
 |---|---|---|---|---|---|
-| 0 | Spruce/Fir | 42 370 | 0,9427 | 0,9335 | 0,9381 |
-| 1 | Lodgepole Pine | 56 660 | 0,9479 | 0,9517 | 0,9498 |
+| 0 | Spruce/Fir | 42 368 | 0,9427 | 0,9335 | 0,9381 |
+| 1 | Lodgepole Pine | 56 661 | 0,9479 | 0,9517 | 0,9498 |
 | 2 | Ponderosa Pine | 7 151 | 0,9455 | 0,9357 | 0,9405 |
 | 3 | Cottonwood/Willow | 549 | 0,8092 | 0,9271 | 0,8642 |
 | 4 | Aspen | 1 899 | 0,8443 | 0,8710 | **0,8574** |
